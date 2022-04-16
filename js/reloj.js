@@ -1,3 +1,12 @@
+/* 
+# Por: FsDk, Jose Antonio Gimenez http://www.eScripting.org
+# 16/04/2022           
+# Puedes modificar siempre que quieras el codigo lo publico como ejemplo  
+# Pero en ningún momento quiero que quites estas lineas de créditos 
+# espero que te pueda servir  y sea de tu agrado.
+*/
+
+
 const mostrarReloj = ()=> {
   let fecha = new Date();
   let hr = formatoHora(fecha.getHours());
